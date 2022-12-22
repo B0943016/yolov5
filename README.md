@@ -151,6 +151,8 @@ pip install -r requirements.txt  # install
 <details>
 <summary>Inference</summary>
 
+yolov 5 is good!
+
 YOLOv5 [PyTorch Hub](https://github.com/ultralytics/yolov5/issues/36) inference. [Models](https://github.com/ultralytics/yolov5/tree/master/models) download automatically from the latest
 YOLOv5 [release](https://github.com/ultralytics/yolov5/releases).
 
